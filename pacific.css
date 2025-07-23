@@ -5,7 +5,12 @@ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 
 header {background-color: background-color#fff
     color(#fff red green blue)
-    
+
+    background-image:  url (images/sunset.jpg) 
+background-position: right;
+background-repeat: no-repeat;
+line-height: 400%;
+text-align: 1em;
  
 }
 
